@@ -11,3 +11,5 @@ num4 = 8
 resta = 0
 resta = num3 - num4
 print(resta)
+
+// Python puede trabajar con una placa de desarrollo
